@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-01-31T18:05:56.005942800Z</date>
+  <millis>1643652356005</millis>
+  <nanos>942800</nanos>
+  <sequence>0</sequence>
+  <logger>Aspects.aspect</logger>
+  <level>INFO</level>
+  <class>Aspects.aspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>---------Test UML CASE----------</message>
+</record>
+<record>
+  <date>2022-01-31T18:05:56.005942800Z</date>
+  <millis>1643652356005</millis>
+  <nanos>942800</nanos>
+  <sequence>1</sequence>
+  <logger>Aspects.aspect</logger>
+  <level>INFO</level>
+  <class>Aspects.aspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>---------Beggin----------</message>
+</record>
+<record>
+  <date>2022-01-31T18:05:56.005942800Z</date>
+  <millis>1643652356005</millis>
+  <nanos>942800</nanos>
+  <sequence>2</sequence>
+  <logger>Aspects.aspect</logger>
+  <level>INFO</level>
+  <class>Aspects.aspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>Before void uml.DiagrammeClasse.createDiargramme()</message>
+</record>
+<record>
+  <date>2022-01-31T18:05:56.021569300Z</date>
+  <millis>1643652356021</millis>
+  <nanos>569300</nanos>
+  <sequence>3</sequence>
+  <logger>Aspects.aspect</logger>
+  <level>INFO</level>
+  <class>Aspects.aspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>After void uml.DiagrammeClasse.createDiargramme()</message>
+</record>
+<record>
+  <date>2022-01-31T18:05:56.021569300Z</date>
+  <millis>1643652356021</millis>
+  <nanos>569300</nanos>
+  <sequence>4</sequence>
+  <logger>Aspects.aspect</logger>
+  <level>INFO</level>
+  <class>Aspects.aspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>Duration:16</message>
+</record>
+<record>
+  <date>2022-01-31T18:05:56.021569300Z</date>
+  <millis>1643652356021</millis>
+  <nanos>569300</nanos>
+  <sequence>5</sequence>
+  <logger>Aspects.aspect</logger>
+  <level>INFO</level>
+  <class>Aspects.aspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>---------END----------</message>
+</record>
+</log>
